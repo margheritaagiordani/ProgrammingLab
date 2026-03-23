@@ -15,7 +15,7 @@ Sito web del corso "LABORATORIO DI PROGRAMMAZIONE II" per Intelligenza Artificia
 
 Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevimento studenti.
 
-**Materiale:** Ci sono principalmente i notebook, che trovate in [materiale_lezioni](materiale_lezioni), assieme agli esercizi (sia proposti dal tutor che da me) che verranno quasi tutti corretti in classe. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. Nelle slide delle prima lezione ci sono vari riferimenti ad altre fonti utili (libri e tutorial) che potete utilizzare.
+**Materiale:** Ci sono principalmente i notebook, che trovate in [materiale_lezioni](materiale_lezioni), assieme agli esercizi (sia proposti dal tutor che da me) che verranno quasi tutti corretti in classe. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. Nelle slide della prima lezione ci sono vari riferimenti ad altre fonti utili (libri e tutorial) che potete utilizzare.
 
 ## News
 - La lezione del 10 Aprile sarà in aula ex CLA ed C1
