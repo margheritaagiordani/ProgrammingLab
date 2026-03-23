@@ -41,13 +41,7 @@ Importante: fate l'upload degli esercizi man mano che li fate, un repository con
 Ricordo che il link al repository va consegnato entro il giorno dell'esame.
 
 Sessione Estiva:
-- 27 Giugno: 14:30-16:30 Laboratorio Informatico inf01 ed inf02 in nell'Edificio D 
-   
-- 22 Luglio: 14:30-16:30 Laboratorio Informatico 3A in nell'Edificio H2 bis (36 posti)
- 
-- 28 Agosto: 14:30-16:30 Laboratorio Informatico 3A in nell'Edificio H2 bis (36 posti)
-
-- 11 Settembre: 15:00-17:00 laboratorio informatico Nettuno nell'Edificio C1
+-
            
 
 
