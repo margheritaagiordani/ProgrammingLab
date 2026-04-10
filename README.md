@@ -28,6 +28,9 @@ Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevi
 - **Lezione 2** (27/03/2026):
      -  Numpy | [materiale_lezione](materiale_lezioni/Lezione2)
 
+- **Lezione 3** (10/04/2026):
+     -  Pandas | [materiale_lezione](materiale_lezioni/Lezione3)
+
 ## Modalità di esame
 La modalità d'esame è la seguente:
 - 20% del voto dipenderà dal repository di github dove dovrete caricare gli esercizi proposti durante il corso. Il link del repository va consegnato entro il giorno dell'esame.
