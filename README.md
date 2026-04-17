@@ -29,7 +29,13 @@ Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevi
      -  Numpy | [materiale_lezione](materiale_lezioni/Lezione2)
 
 - **Lezione 3** (10/04/2026):
-     -  Pandas | [materiale_lezione](materiale_lezioni/Lezione3)
+     -  Pandas ed un po' di Matplotlib| [materiale_lezione](materiale_lezioni/Lezione3)
+
+- **Lezione 4** (14/04/2026):
+     -  Esercitazione
+
+- **Lezione 5** (17/04/2026):
+     -  Distribuzioni, Matplotlib Seaborn e ancora un po' di Pandas | [materiale_lezione](materiale_lezioni/Lezione5)
 
 ## Modalità di esame
 La modalità d'esame è la seguente:
