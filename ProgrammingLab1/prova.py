@@ -570,6 +570,20 @@ class Series():
 
 #dict comprehension
 
-sentence = 'the cat sat on the mat the cat'
-my_dict = {word:sentence.count(word) for word in sentence.split(' ')}
-print(my_dict)  
+# sentence = 'the cat sat on the mat the cat'
+# my_dict = {word:sentence.count(word) for word in sentence.split(' ')}
+# print(my_dict)  
+
+air = ["gemini", "libra", "acquarius"]
+x = input("insert your zodiac sign:\n")
+
+# if x in air:
+#     print(f'{x} is an air sign')
+# else:
+#     print(f'{x} is not an air sign')
+
+#oppure
+# if x in air:
+#     print('{} is an air sign'.format(x))
+# else:
+#     print('{} is not an air sign'.format(x))
